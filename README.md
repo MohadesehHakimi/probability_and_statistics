@@ -6,7 +6,7 @@ This repository documents my practice with statistical concepts, data analysis, 
 
 ## Contents
 
-### R Learning (`r-learning/`)
+### R Learning (`R-learning/`)
 
 Scripts created while learning R through online tutorials and lecture materials.
 
@@ -17,7 +17,7 @@ Topics include:
 - The apply family of functions
 - Basic probability distributions
 
-### R Coursework (`r-coursework/`)
+### R Coursework (`R-coursework/`)
 
 Assignments from university statistics and probability courses, covering:
 
@@ -29,7 +29,7 @@ Assignments from university statistics and probability courses, covering:
 - Hypothesis testing and permutation tests
 - Statistical estimation
 
-### Python Book Exercises (`python-book-exercises/`)
+### Python Book Exercises (`Python-book-exercises/`)
 
 Jupyter notebooks containing exercises and experiments based on selected chapters of *Modern Statistics: Intuition, Math, Python, R* by Mike X Cohen.
 
